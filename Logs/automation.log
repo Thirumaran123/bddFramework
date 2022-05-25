@@ -1,0 +1,130 @@
+2022-05-23 18:09:45,167  INFO [main] BddFramework:24 - launching chrome browser
+2022-05-23 18:09:45,220  INFO [main] BddFramework:31 - opening url
+2022-05-23 18:09:46,568  INFO [main] BddFramework:39 - login details are provided
+2022-05-23 18:09:52,889  INFO [main] BddFramework:42 - click on login
+2022-05-23 18:09:52,891  INFO [main] BddFramework:161 - clicking on helptab
+2022-05-23 18:09:55,812  INFO [main] BddFramework:169 - getting title of the page
+2022-05-23 18:09:57,853  INFO [main] BddFramework:172 - validating the titles
+2022-05-23 18:09:57,858  INFO [main] BddFramework:56 - closing the browser
+2022-05-23 18:10:01,217  INFO [main] BddFramework:24 - launching chrome browser
+2022-05-23 18:10:01,219  INFO [main] BddFramework:31 - opening url
+2022-05-23 18:10:07,175  INFO [main] BddFramework:39 - login details are provided
+2022-05-23 18:10:14,466  INFO [main] BddFramework:42 - click on login
+2022-05-23 18:10:16,915  INFO [main] BddFramework:50 - log in passed
+2022-05-23 18:10:16,916  INFO [main] BddFramework:56 - closing the browser
+2022-05-23 18:10:20,634  INFO [main] BddFramework:24 - launching chrome browser
+2022-05-23 18:10:20,636  INFO [main] BddFramework:31 - opening url
+2022-05-23 18:10:26,668  INFO [main] BddFramework:39 - login details are provided
+2022-05-23 18:10:48,908  INFO [main] BddFramework:42 - click on login
+2022-05-23 18:10:48,910  INFO [main] BddFramework:63 - clicking on logout
+2022-05-23 18:10:51,156  INFO [main] BddFramework:56 - closing the browser
+2022-05-23 18:10:54,561  INFO [main] BddFramework:24 - launching chrome browser
+2022-05-23 18:10:54,563  INFO [main] BddFramework:31 - opening url
+2022-05-23 18:10:56,317  INFO [main] BddFramework:39 - login details are provided
+2022-05-23 18:11:04,982  INFO [main] BddFramework:42 - click on login
+2022-05-23 18:11:08,984  INFO [main] BddFramework:70 - user enter a product to search
+2022-05-23 18:11:14,875  INFO [main] BddFramework:72 - user clicked on search button
+2022-05-23 18:11:18,876  INFO [main] BddFramework:138 - closing chrome browser
+2022-05-23 18:11:22,262  INFO [main] BddFramework:24 - launching chrome browser
+2022-05-23 18:11:22,264  INFO [main] BddFramework:31 - opening url
+2022-05-23 18:11:23,791  INFO [main] BddFramework:39 - login details are provided
+2022-05-23 18:11:31,914  INFO [main] BddFramework:42 - click on login
+2022-05-23 18:11:31,915  INFO [main] BddFramework:144 - user enters a product and added filter
+2022-05-23 18:11:34,488  INFO [main] BddFramework:152 - validating the name of the product with what we searched
+2022-05-23 18:11:42,953  INFO [main] BddFramework:56 - closing the browser
+2022-05-23 18:11:44,399  INFO [main] BddFramework:24 - launching chrome browser
+2022-05-23 18:11:44,402  INFO [main] BddFramework:31 - opening url
+2022-05-23 18:11:45,967  INFO [main] BddFramework:94 - user enters existing username and password for signup
+2022-05-23 18:11:52,787  INFO [main] BddFramework:100 - the system responds as username already there
+2022-05-23 18:11:52,826  INFO [main] BddFramework:104 - the system asks to add a new email
+2022-05-23 18:11:52,827  INFO [main] BddFramework:56 - closing the browser
+2022-05-23 18:11:54,560  INFO [main] BddFramework:24 - launching chrome browser
+2022-05-23 18:11:54,564  INFO [main] BddFramework:31 - opening url
+2022-05-23 18:11:55,819  INFO [main] BddFramework:111 - user should be able to see password on signup page
+2022-05-23 18:12:05,124  INFO [main] BddFramework:117 - closing browser
+2022-05-23 18:12:08,606  INFO [main] BddFramework:24 - launching chrome browser
+2022-05-23 18:12:08,609  INFO [main] BddFramework:31 - opening url
+2022-05-23 18:12:09,904  INFO [main] BddFramework:39 - login details are provided
+2022-05-23 18:12:16,297  INFO [main] BddFramework:42 - click on login
+2022-05-23 18:12:16,299  INFO [main] BddFramework:193 - Entering stores page
+2022-05-23 18:12:22,783  INFO [main] BddFramework:201 - closing chrome browser
+2022-05-23 18:12:26,196  INFO [main] BddFramework:24 - launching chrome browser
+2022-05-23 18:12:26,201  INFO [main] BddFramework:31 - opening url
+2022-05-23 18:12:27,534  INFO [main] BddFramework:39 - login details are provided
+2022-05-23 18:12:34,354  INFO [main] BddFramework:42 - click on login
+2022-05-23 18:12:36,418  INFO [main] BddFramework:124 - moving to trackorders page
+2022-05-23 18:12:36,420  INFO [main] BddFramework:131 - searching for any product is there in trackorderspage
+2022-05-23 18:12:36,457  INFO [main] BddFramework:56 - closing the browser
+2022-05-23 18:12:37,906  INFO [main] BddFramework:24 - launching chrome browser
+2022-05-23 18:12:37,908  INFO [main] BddFramework:31 - opening url
+2022-05-23 18:12:39,191  INFO [main] BddFramework:39 - login details are provided
+2022-05-23 18:12:47,207  INFO [main] BddFramework:42 - click on login
+2022-05-23 18:12:51,209  INFO [main] BddFramework:70 - user enter a product to search
+2022-05-23 18:12:53,165  INFO [main] BddFramework:72 - user clicked on search button
+2022-05-23 18:12:57,166  INFO [main] BddFramework:180 - adding items to wishlist
+2022-05-23 18:13:01,282  INFO [main] BddFramework:186 - closing chrome browser
+2022-05-23 18:31:35,973  INFO [main] BddFramework:34 - launching chrome browser
+2022-05-23 18:31:36,022  INFO [main] BddFramework:47 - opening url
+2022-05-23 18:31:37,576  INFO [main] BddFramework:55 - login details are provided
+2022-05-23 18:31:43,885  INFO [main] BddFramework:58 - click on login
+2022-05-23 18:31:43,887  INFO [main] BddFramework:177 - clicking on helptab
+2022-05-23 18:31:47,039  INFO [main] BddFramework:185 - getting title of the page
+2022-05-23 18:31:49,076  INFO [main] BddFramework:188 - validating the titles
+2022-05-23 18:31:49,080  INFO [main] BddFramework:72 - closing the browser
+2022-05-23 18:31:50,622  INFO [main] BddFramework:34 - launching chrome browser
+2022-05-23 18:31:50,624  INFO [main] BddFramework:47 - opening url
+2022-05-23 18:31:52,032  INFO [main] BddFramework:55 - login details are provided
+2022-05-23 18:31:58,356  INFO [main] BddFramework:58 - click on login
+2022-05-23 18:32:00,979  INFO [main] BddFramework:66 - log in passed
+2022-05-23 18:32:00,980  INFO [main] BddFramework:72 - closing the browser
+2022-05-23 18:32:04,352  INFO [main] BddFramework:34 - launching chrome browser
+2022-05-23 18:32:04,359  INFO [main] BddFramework:47 - opening url
+2022-05-23 18:32:05,531  INFO [main] BddFramework:55 - login details are provided
+2022-05-23 18:32:12,130  INFO [main] BddFramework:58 - click on login
+2022-05-23 18:32:12,131  INFO [main] BddFramework:79 - clicking on logout
+2022-05-23 18:32:13,490  INFO [main] BddFramework:72 - closing the browser
+2022-05-23 18:32:15,085  INFO [main] BddFramework:34 - launching chrome browser
+2022-05-23 18:32:15,088  INFO [main] BddFramework:47 - opening url
+2022-05-23 18:32:17,161  INFO [main] BddFramework:55 - login details are provided
+2022-05-23 18:32:24,041  INFO [main] BddFramework:58 - click on login
+2022-05-23 18:32:28,043  INFO [main] BddFramework:86 - user enter a product to search
+2022-05-23 18:32:29,395  INFO [main] BddFramework:88 - user clicked on search button
+2022-05-23 18:32:33,396  INFO [main] BddFramework:154 - closing chrome browser
+2022-05-23 18:32:36,799  INFO [main] BddFramework:34 - launching chrome browser
+2022-05-23 18:32:36,801  INFO [main] BddFramework:47 - opening url
+2022-05-23 18:32:38,078  INFO [main] BddFramework:55 - login details are provided
+2022-05-23 18:32:44,504  INFO [main] BddFramework:58 - click on login
+2022-05-23 18:32:44,505  INFO [main] BddFramework:160 - user enters a product and added filter
+2022-05-23 18:32:46,490  INFO [main] BddFramework:168 - validating the name of the product with what we searched
+2022-05-23 18:32:55,016  INFO [main] BddFramework:72 - closing the browser
+2022-05-23 18:32:56,489  INFO [main] BddFramework:34 - launching chrome browser
+2022-05-23 18:32:56,491  INFO [main] BddFramework:47 - opening url
+2022-05-23 18:32:57,612  INFO [main] BddFramework:110 - user enters existing username and password for signup
+2022-05-23 18:33:03,879  INFO [main] BddFramework:116 - the system responds as username already there
+2022-05-23 18:33:03,996  INFO [main] BddFramework:120 - the system asks to add a new email
+2022-05-23 18:33:03,997  INFO [main] BddFramework:72 - closing the browser
+2022-05-23 18:33:07,479  INFO [main] BddFramework:34 - launching chrome browser
+2022-05-23 18:33:07,485  INFO [main] BddFramework:47 - opening url
+2022-05-23 18:33:08,759  INFO [main] BddFramework:127 - user should be able to see password on signup page
+2022-05-23 18:33:18,687  INFO [main] BddFramework:133 - closing browser
+2022-05-23 18:33:22,065  INFO [main] BddFramework:34 - launching chrome browser
+2022-05-23 18:33:22,067  INFO [main] BddFramework:47 - opening url
+2022-05-23 18:33:23,265  INFO [main] BddFramework:55 - login details are provided
+2022-05-23 18:33:30,111  INFO [main] BddFramework:58 - click on login
+2022-05-23 18:33:30,113  INFO [main] BddFramework:209 - Entering stores page
+2022-05-23 18:33:37,379  INFO [main] BddFramework:217 - closing chrome browser
+2022-05-23 18:33:38,847  INFO [main] BddFramework:34 - launching chrome browser
+2022-05-23 18:33:38,858  INFO [main] BddFramework:47 - opening url
+2022-05-23 18:33:40,106  INFO [main] BddFramework:55 - login details are provided
+2022-05-23 18:33:47,034  INFO [main] BddFramework:58 - click on login
+2022-05-23 18:33:49,399  INFO [main] BddFramework:140 - moving to trackorders page
+2022-05-23 18:33:49,401  INFO [main] BddFramework:147 - searching for any product is there in trackorderspage
+2022-05-23 18:33:49,449  INFO [main] BddFramework:72 - closing the browser
+2022-05-23 18:33:52,847  INFO [main] BddFramework:34 - launching chrome browser
+2022-05-23 18:33:52,849  INFO [main] BddFramework:47 - opening url
+2022-05-23 18:33:54,019  INFO [main] BddFramework:55 - login details are provided
+2022-05-23 18:34:00,306  INFO [main] BddFramework:58 - click on login
+2022-05-23 18:34:04,310  INFO [main] BddFramework:86 - user enter a product to search
+2022-05-23 18:34:05,498  INFO [main] BddFramework:88 - user clicked on search button
+2022-05-23 18:34:09,501  INFO [main] BddFramework:196 - adding items to wishlist
+2022-05-23 18:34:13,762  INFO [main] BddFramework:202 - closing chrome browser
